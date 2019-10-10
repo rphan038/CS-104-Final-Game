@@ -10,3 +10,9 @@ the game will give the user the option to start the game over. The player wins o
 game screen. Once this happens the player is directed to the second level where the objective is still to reach the top of
 the game screen. However, instead, this level consists of large rectangles from the left and right side of the game screen. 
 As the player gets closer to the top of the screen, the gap between these rectangles gets smaller.
+
+Project Title: CS 104 Final Game
+
+Date: 11/27/18
+
+Authors: Richard Phan
